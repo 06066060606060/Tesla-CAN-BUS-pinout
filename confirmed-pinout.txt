@@ -1,0 +1,38 @@
+
+MODEL Y 2024 HW4(Berlin)
+Tesla Model 3 Performance 2026 HW4 (US)
+Tesla Model 3 LR AWD 2026 HW4 (EU)
+Tesla Model 3 2022 HW3
+Tesla Model Y 2023 HW3
+Tesla Model 3 Highland 2024
+Tesla Model 3 LR Q2 2021
+Tesla Model Y Juniper 2025
+
+Port X179 right pillar:
+Party can:  pin 2-3  Nag-killer
+Chassis can:  pin 13-14 EU summon unlock
+Body can: pin 9-10 Advanced EAP
+ 
+---------------------------
+
+Tesla Model S 2017 HW3/MCU2
+Chassis/party can:  pin 13-14 nag-killer & EU summon unlock
+Body can: pin 18-19  Advanced EAP
+(connector under the screen) 
+ 
+---------------------------
+MODEL YL 2026 HW4 
+Port X179 right pillar:
+Party/chassis CAN (pin 2/3)
+Body CAN (pin 9/10) 
+
+---------------------------
+MODEL 3 2019 HW3
+Port X652 under passanger seat
+Chassis can:  pin 1-2 summon unlock
+
+---------------------------
+Model 3 2019 
+Port X170 MCU:
+Chassis can:  pin 1-2   summon unlock  : Working
+Vehicle can:  pin 7-8  Adv EAP : Working
